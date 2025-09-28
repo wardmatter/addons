@@ -1,6 +1,6 @@
 ---
-version: 2.13.0
-slug: openthread_border_router
+version: 3.0.0
+slug: openthread_border_router_dev
 name: OpenThread Border Router
 description: OpenThread Border Router add-on
 url: >-
